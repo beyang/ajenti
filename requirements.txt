@@ -1,6 +1,7 @@
 gevent
 gevent-socketio
 lxml>=2.2.4
+mako>=0.9.0
 passlib
 psutil>=0.6.0
 python-catcher
